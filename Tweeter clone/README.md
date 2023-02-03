@@ -21,3 +21,6 @@ link 2 = https://www.youtube.com/watch?v=UexP3Q4PJIw&ab_channel=CodeEater
 
 For the front end and contract use the first link
 For blockchain, meta mask connection, ABI generation, and contract deployment use the second link
+
+I know its difficult to understand but once you start doing it, it will start making sense 
+
